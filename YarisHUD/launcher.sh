@@ -1,8 +1,8 @@
 #!/bin/bash
 sleep 5
 
-# CORRECTION ICI : lucas au lieu de pi
-cd /home/lucas/YarisHUD
+# Put the location of your folder here
+cd /home/.../YarisHUD
 
 export DISPLAY=:0
 
